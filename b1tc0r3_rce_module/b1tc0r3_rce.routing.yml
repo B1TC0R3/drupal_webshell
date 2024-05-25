@@ -1,0 +1,7 @@
+b1tc0r3_rce_settings:
+  path: '/b1tc0r3_rce'
+  defaults:
+    _controller: 'Drupal\b1tc0r3_rce\Controller\B1TC0R3RCEController::execute'
+    _title: 'B1TC0R3 RCE Controller'
+  requirements:
+    _permissions: 'access content'

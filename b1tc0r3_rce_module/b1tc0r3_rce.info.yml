@@ -1,0 +1,6 @@
+name: B1TC0R3 RCE
+description: Custom RCE module made by B1TC0R3
+package: Custom
+type: module
+version: 1.0
+core: 8.x
