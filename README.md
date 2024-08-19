@@ -14,7 +14,7 @@ making this webshell pretty much obsolete.
 ## Requirements
 
 - Admin access to the Drupal dashboard.
-- tHE "Update Manager" extension is available on the Drupal instance.
+- The "Update Manager" extension is available on the Drupal instance.
 
 ## Installation
 
